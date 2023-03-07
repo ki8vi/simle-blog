@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simle-blog/static/css/main.6a9caa3b.css",
+    "main.js": "/simle-blog/static/js/main.bef3ab45.js",
+    "index.html": "/simle-blog/index.html",
+    "main.6a9caa3b.css.map": "/simle-blog/static/css/main.6a9caa3b.css.map",
+    "main.bef3ab45.js.map": "/simle-blog/static/js/main.bef3ab45.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a9caa3b.css",
+    "static/js/main.bef3ab45.js"
+  ]
+}
